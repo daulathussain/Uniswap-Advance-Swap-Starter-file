@@ -26,7 +26,7 @@ Learn how to create and deploy an advanced Uniswap Token Swap Dapp and start ear
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/supply-chain-management-project-source-code)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-uniswap-token-swap-dapp)
 
 #### Setup Video
 
