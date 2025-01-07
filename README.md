@@ -30,7 +30,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://www.youtube.com/watch?v=LlX-39ywxsU)
+- [Final Code Setup video](https://youtu.be/tX_gwzH4204?si=SlbbdhC7uXsxsZhi)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
